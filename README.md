@@ -1,4 +1,7 @@
-![logo](https://github.com/Kainat-Fatima/Kainat-Fatima/blob/main/Banner.png)
+<p align="center">
+  <img src="https://github.com/Kainat-Fatima/Kainat-Fatima/blob/main/Banner.png" alt="Logo"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kainat Fatima</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
