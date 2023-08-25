@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kainat Fatima</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-
+<img align="right" alt="coding" width="400px" src="https://github.com/Kainat-Fatima/Kainat-Fatima/assets/61264596/cec54397-e72a-44a7-b5e4-9c9ace649fc3">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kainat-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="kainat-fatima" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kainat-fatima" alt="kainat-fatima" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kainat-Fatima" alt="kainat-fatima" /></a> </p>
 
 - 🔭 I’m currently working on **.NET projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kainatkhandwala@outlook.com**
 
-- ⚡ Fun fact **I'm an avid hiker and have completed a challenging trail that stretches over 100 miles, taking me through breathtaking landscapes and testing my endurance.**
+- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
