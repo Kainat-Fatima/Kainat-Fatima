@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Kainat-Fatima/Kainat-Fatima/blob/main/Banner.png" alt="Logo"/>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kainat-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="kainat-fatima" /> </p>
 <h1 align="center">Hi 👋, I'm Kainat Fatima</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
